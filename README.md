@@ -1,2 +1,2 @@
 # greentext-plugin
-a discord plugin that adds 4chan-like greentext highlighting
+a better discord plugin that adds 4chan-like greentext highlighting
